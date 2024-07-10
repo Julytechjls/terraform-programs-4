@@ -137,4 +137,3 @@ resource "aws_db_instance" "example" {
 
 }
  
-123
